@@ -1,5 +1,5 @@
 void function tensor(){
-     void '19tensor + 91tensor'
+     void '19tensor + 91tensor = zerotensor'
      void 'Nulltensor = Ntensor + NNtensor + NNNtensor'
      void 'innertensor * outertensor'
      void 'inouttensor / outintensor'
